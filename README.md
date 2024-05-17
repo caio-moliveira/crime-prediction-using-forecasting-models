@@ -412,23 +412,41 @@ The primary objective of the study was to identify the optimal forecasting model
 # REFERENCES
 
 [1] Elyta, E., Mujiono, D. I. and Sagena, U. W. (2022). Facing the dangers in indonesia’s waters: Government’s efforts in proposing illegal, unreported and unregulated fishing as transnational organized crime, Intermestic: Journal of International Studies 6(2): 336– 352
+
 [2] Laycock, G. (2013). Defining crime science, pp. 3–24.
+
 [3] Calatayud, J., Jornet, M. & Mateu, J. Modeling noisy time-series data of crime with stochastic differential equations. Stoch Environ Res Risk Assess 37, 1053–1066 (2023). https://doi.org/10.1007/s00477-022-02334-8	
+
 [4] Hyndman, R.J., & Athanasopoulos, G. (2018). Forecasting: principles and practice. Monash University, Australia.
+
 [5] Guide to How Crime is Recorded and Counted by An Garda Síochána. (2020). Available at: https://www.garda.ie/en/about-us/publications/policy-documents/guide-to-how-crime-is-counted-and-recorded.pdf.
+
 [6] Wirth, R., & Hipp, J. (2000). CRISP-DM: Towards a Standard Process Model for Data Mining.
+
 [7] IBM (2021). CRISP-DM Help Overview. [online] www.ibm.com. Available at: https://www.ibm.com/docs/en/spss-modeler/SaaS?topic=dm-crisp-help-overview.
+
 [8] Murphy, K.P. (2023). Probabilistic Machine Learning. MIT Press.
+
 [9] www.ibm.com. (n.d.). Introduction to CRISP-DM. [online] Available at: https://www.ibm.com/docs/en/spss-modeler/SaaS?topic=guide-introduction-crisp-dm.
+
 [10] Taylor, S.J. and Letham, B., 2017. Forecasting at Scale. 
+
 [11] Prophet. (2022). Quick Start. [online] Available at: https://facebook.github.io/prophet/docs/quick_start.html#python-api.
+
 [12] Ďurka, P. and Pastoreková, S., 2012. ARIMA vs. ARIMAX – Which approach is better to analyze and forecast macroeconomic time series?
+
 [13] Brockwell, P.J. and Davis, R.A. (2016). Introduction to Time Series and Forecasting. Cham Springer International Publishing.
+
 [14] alkaline-ml.com. (n.d.). pmdarima.arima.auto_arima — pmdarima 1.5.3 documentation. [online] Available at: https://alkaline-ml.com/pmdarima/modules/generated/pmdarima.arima.auto_arima.html.
+
 [15] Zhang, Y. and Meng, G. (2023). Simulation of an Adaptive Model Based on AIC and BIC ARIMA Predictions. Journal of physics, 2449(1), pp.012027–012027. doi:https://doi.org/10.1088/1742-6596/2449/1/012027.
+
  [16] www.statsmodels.org. (n.d.). statsmodels.tsa.arima.model.ARIMA — statsmodels. [online] Available at: https://www.statsmodels.org/stable/generated/statsmodels.tsa.arima.model.ARIMA.html.
+ 
 [17] www.statsmodels.org. (n.d.). statsmodels.tsa.statespace.sarimax.SARIMAX — statsmodels. [online] Available at: https://www.statsmodels.org/dev/generated/statsmodels.tsa.statespace.sarimax.SARIMAX.html.
+
 [18] Kalekar, P.S., 2004. Time series forecasting using holt-winters exponential smoothing. Kanwal Rekhi school of information Technology.
+
 [19] Statsmodels.org. (2014). statsmodels.tsa.holtwinters.ExponentialSmoothing — statsmodels. [online] Available at: https://www.statsmodels.org/dev/generated/statsmodels.tsa.holtwinters.ExponentialSmoothing.html.
 
 [20] Chai, T. and Draxler, R.R. (2014). Root mean square error (RMSE) or mean absolute error (MAE)? – Arguments against avoiding RMSE in the literature. Geoscientific Model Development, 7(3), pp.1247–1250. doi:https://doi.org/10.5194/gmd-7-1247-2014.
