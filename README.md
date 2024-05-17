@@ -1,24 +1,22 @@
-Forecasting Crime Rates in Ireland Using Time-Series Models
+# Forecasting Crime Rates in Ireland Using Time-Series Models
 
 
-Caio Machado de Oliveira
-ID: 2020351
+### Caio Machado de Oliveira
+### ID: 2020351
 
 
-A Report Submitted in Partial Fulfilment 
-of the requirements for the 
-Degree of 
-BSc in Computing in IT (4th year)
+## A Report Submitted in Partial Fulfilment of the requirements for the 
+## Degree of BSc in Computing in IT (4th year)
 
 
 
  
 
-May 2024
+### May 2024
 
 
 
-Supervisor: Dr. Muhammad Iqbal
+### Supervisor: Dr. Muhammad Iqbal
 
 
 
