@@ -54,20 +54,35 @@ By submitting this assessment, I confirm that I have read the CCT policy on Acad
 
 TABLE OF CONTENTS
 ABSTRACT	4
+
 1.	INTRODUCTION	5
+   
 Statement of Problem	5
+
 Research Question	5
+
 Data Acquisition	5
+
 Limitations	6
-2.	CRISP-DM	7
+
+4.	CRISP-DM	7
+   
 Methodology	7
+
 Business Understanding	8
+
 Data Understanding	9
+
 Data Preparation	12
+
 Modeling	13
+
 Evaluation	16
+
 Deployment	17
-3.	CONCLUSIONS	18
+
+6.	CONCLUSIONS	18
+   
 REFERENCES	19
 
 
